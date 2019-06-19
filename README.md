@@ -1,24 +1,5 @@
-# README
+# Deep Dive into Rails 5 Routing
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> In this deep dive we're going to examine how to work with the Ruby on Rails routing system. This will include creating custom routes, using namespaces for nested routes, working with dynamic values in routes, and much more.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Full routing tutorial](https://rails.devcamp.com/dissecting-rails-5/data-flow-rails/rails-routing-data-flow)

@@ -7,4 +7,9 @@ class PagesController < ApplicationController
 
   def contact
   end
+
+  def something
+    @sth = params[:sth]
+    @another_one = params[:another_one]
+  end
 end
